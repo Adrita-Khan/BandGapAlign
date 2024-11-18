@@ -41,3 +41,11 @@ This query will help to locate papers that discuss:
 
 ## License
 *This project is licensed under the MIT License.*
+---
+The references can be found [here:] (References.md)
+
+## Notable References
+
+1. Band gap and band alignment prediction of nitride-based semiconductors using machine learning (Huang2019)
+2. Bandgap prediction by deep learning in configurationally hybridized graphene and boron nitride (Dong2019)
+
