@@ -16,3 +16,18 @@ Clone this repository:
 ```bash
 git clone https://github.com/Adrita-Khan/BandGapAlign.git
 cd BandGapAlign
+
+
+
+## Search Query on Google Scholar for Relevant Materials
+
+Use the following search query on Google Scholar to find academic papers and research on band gap and band alignment predictions in semiconductors using machine learning:
+
+```bash
+"band gap" AND "band alignment" AND "semiconductor" AND "machine learning"
+
+This query will help to locate papers that discuss:
+
+- Band gap predictions
+- Band alignment in semiconductors
+- Applications of machine learning in material science
