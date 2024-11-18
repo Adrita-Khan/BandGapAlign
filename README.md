@@ -24,8 +24,13 @@ cd BandGapAlign
 Use the following search query on Google Scholar to find academic papers and research on band gap and band alignment predictions in semiconductors using machine learning:
 
 ```bash
-"band gap" AND "band alignment" AND "semiconductor" AND "machine learning"
+"band gap" "band alignment" "semiconductor" "machine learning"
 ```
+
+```bash
+"band gap" "band alignment" "semiconductor" "deep learning"
+```
+
 This query will help to locate papers that discuss:
 
 - Band gap predictions
