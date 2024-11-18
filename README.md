@@ -16,8 +16,8 @@ Clone this repository:
 ```bash
 git clone https://github.com/Adrita-Khan/BandGapAlign.git
 cd BandGapAlign
-
-
+```
+---
 
 ## Search Query on Google Scholar for Relevant Materials
 
