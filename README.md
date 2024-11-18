@@ -40,9 +40,13 @@ This query will help to locate papers that discuss:
 
 
 ## License
+
 *This project is licensed under the MIT License.*
+
 ---
-The references can be found [here:] (References.md)
+
+The references can be found [here](References.md).
+
 
 ## Notable References
 
