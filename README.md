@@ -31,3 +31,7 @@ This query will help to locate papers that discuss:
 - Band gap predictions
 - Band alignment in semiconductors
 - Applications of machine learning in material science
+
+
+## License
+*This project is licensed under the MIT License.*
