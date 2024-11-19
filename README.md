@@ -58,9 +58,15 @@ The references can be found [here](References.md).
 
 ## Resources
 
-1. [YouTube: Video 1](https://www.youtube.com/watch?v=DxQbakJXHMU)
-2. [YouTube: Video 2](https://www.youtube.com/watch?v=dJRpjK1UyPI&t=192s)
-3. [YouTube: Video 3](https://www.youtube.com/watch?v=dU123Uc7HlI)
-4. [YouTube: Video 4](https://www.youtube.com/watch?v=qg3ju4nqqoQ)
-5. [YouTube: Video 5](https://www.youtube.com/watch?v=vVXD1Ds4Efk)
-6. [YouTube: Video 7](https://www.youtube.com/watch?v=JYz51Wq3yEo)
+1. [Video 1](https://www.youtube.com/watch?v=DxQbakJXHMU)
+2. [Video 2](https://www.youtube.com/watch?v=dJRpjK1UyPI&t=192s)
+3. [Video 3](https://www.youtube.com/watch?v=dU123Uc7HlI)
+4. [Video 4](https://www.youtube.com/watch?v=qg3ju4nqqoQ)
+5. [Video 5](https://www.youtube.com/watch?v=vVXD1Ds4Efk)
+6. [Video 7](https://www.youtube.com/watch?v=JYz51Wq3yEo)
+
+## Database
+
+- [Matminer Datasets](https://hackingmaterials.lbl.gov/matminer/matminer.datasets.html): A collection of datasets for materials informatics research, provided by the Hacking Materials Project.
+- [Next-Generation Materials Project](https://next-gen.materialsproject.org/): A comprehensive resource for materials data, supporting computational materials science and discovery.
+
