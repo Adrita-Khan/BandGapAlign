@@ -53,3 +53,15 @@ The references can be found [here](References.md).
 1. Band gap and band alignment prediction of nitride-based semiconductors using machine learning (Huang2019)
 2. Bandgap prediction by deep learning in configurationally hybridized graphene and boron nitride (Dong2019)
 
+---
+
+
+## Resources
+
+1. [YouTube: Video 1](https://www.youtube.com/watch?v=DxQbakJXHMU)
+2. [YouTube: Video 2](https://www.youtube.com/watch?v=dJRpjK1UyPI&t=192s)
+3. [YouTube: Video 3](https://www.youtube.com/watch?v=dU123Uc7HlI)
+4. [YouTube: Video 4](https://www.youtube.com/watch?v=qg3ju4nqqoQ)
+5. [YouTube: Video 5](https://www.youtube.com/watch?v=vVXD1Ds4Efk)
+6. [YouTube: Video 6 (Duplicate Link)](https://www.youtube.com/watch?v=qg3ju4nqqoQ)
+7. [YouTube: Video 7](https://www.youtube.com/watch?v=JYz51Wq3yEo)
