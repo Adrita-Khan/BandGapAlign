@@ -70,3 +70,38 @@ The references can be found [here](References.md).
 - [Matminer Datasets](https://hackingmaterials.lbl.gov/matminer/matminer.datasets.html): A collection of datasets for materials informatics research, provided by the Hacking Materials Project.
 - [Next-Generation Materials Project](https://next-gen.materialsproject.org/): A comprehensive resource for materials data, supporting computational materials science and discovery.
 
+
+## GitHub Repositories for Similar Works
+
+Here is a curated list of GitHub repositories related to bandgap prediction using machine learning techniques:
+
+1. [Band-Gap-Prediction-Using-ML](https://github.com/aydinerol/Band-Gap-Prediction-Using-ML)  
+   **Description:** Repository by `aydinerol` focused on predicting band gaps using machine learning.
+
+2. [Band_Gap_Machine_Learning](https://github.com/tianshi-wang/Band_Gap_Machine_Learning)  
+   **Description:** Repository by `tianshi-wang` showcasing ML techniques for bandgap prediction.
+
+3. [Material-Band-Gap-Prediction](https://github.com/ShashankRapolu07/Material-Band-Gap-Prediction)  
+   **Description:** Repository by `ShashankRapolu07` aimed at predicting material band gaps using ML.
+
+4. [Machine-learning-enabled-band-gap-prediction](https://github.com/gaochanut/Machine-learning-enabled-band-gap-prediction)  
+   **Description:** Repository by `gaochanut` leveraging ML for bandgap predictions.
+
+5. [Band_gap-prediction-using-machine-learning](https://github.com/PrathameshSonar2000/Band_gap-prediction-using-machine-learning)  
+   **Description:** Repository by `PrathameshSonar2000` exploring ML approaches for bandgap predictions.
+
+6. [Band-Gap-Prediction-via-Machine-Learning-Techniques](https://github.com/jairothoniel/Band-Gap-Prediction-via-Machine-Learning-Techniques)  
+   **Description:** Repository by `jairothoniel` detailing machine learning methods for predicting band gaps.
+
+7. [BandGap_Predictor (by Ezhilvel)](https://github.com/Ezhilvel/BandGap_Predictor)  
+   **Description:** Repository by `Ezhilvel` on building a bandgap prediction model using ML.
+
+8. [BandGap_Predictor (by Sahil1004)](https://github.com/Sahil1004/BandGap_Predictor)  
+   **Description:** Repository by `Sahil1004` focusing on predictive modeling for band gaps.
+
+9. [BandGapPredictor](https://github.com/yzhuo33/BandGapPredictor)  
+   **Description:** Repository by `yzhuo33` employing machine learning for bandgap predictions.
+
+
+
+
