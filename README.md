@@ -6,6 +6,9 @@
 ## Overview
 BandGapAlign is a machine learning project focused on predicting the band gap and band alignment properties of semiconductors. This tool aims to support material scientists and researchers by providing reliable predictions based on semiconductor features, enabling more efficient discovery of materials for electronic and optoelectronic applications.
 
+![BandGap](Assets/BandGap.png)
+
+
 ## Features
 - Predicts band gap values of semiconductors
 - Provides band alignment classifications
