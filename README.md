@@ -8,6 +8,8 @@ BandGapAlign is a machine learning project focused on predicting the band gap an
 
 ![BandGap](Assets/BandGap.png)
 
+[Source: Review on Charge Carrier Transport in Inorganic and Organic Semiconductors](https://www.researchgate.net/publication/374093083_Review_on_Charge_Carrier_Transport_in_Inorganic_and_Organic_Semiconductors/figures?lo=1&utm_source=google&utm_medium=organic)
+
 
 ## Features
 - Predicts band gap values of semiconductors
