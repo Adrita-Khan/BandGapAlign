@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+mastml
+pymatgen
+scikit-lego
+linear-tree
+gplearn
+cbfv
+deepchem
+duecredit
