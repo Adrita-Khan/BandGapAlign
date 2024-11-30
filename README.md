@@ -107,6 +107,8 @@ Here is a curated list of GitHub repositories related to bandgap prediction usin
 9. [BandGapPredictor](https://github.com/yzhuo33/BandGapPredictor)  
    **Description:** Repository by `yzhuo33` employing machine learning for bandgap predictions.
 
+**Adrita Khan**  
 
+*[📧 Email](mailto:adrita.khan.official@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/adrita-khan) | [🐦 Twitter](https://x.com/Adrita_)*
 
 
