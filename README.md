@@ -70,11 +70,17 @@ The references can be found [here](References.md).
 5. [Video 5](https://www.youtube.com/watch?v=vVXD1Ds4Efk)
 6. [Video 7](https://www.youtube.com/watch?v=JYz51Wq3yEo)
 
+---
+
 ## Database
 
-- [Matminer Datasets](https://hackingmaterials.lbl.gov/matminer/matminer.datasets.html): A collection of datasets for materials informatics research, provided by the Hacking Materials Project.
-- [Next-Generation Materials Project](https://next-gen.materialsproject.org/): A comprehensive resource for materials data, supporting computational materials science and discovery.
+- [Matminer Datasets](https://hackingmaterials.lbl.gov/matminer/matminer.datasets.html):  
+  A collection of datasets for materials informatics research, provided by the Hacking Materials Project.  
 
+- [Next-Generation Materials Project](https://next-gen.materialsproject.org/):  
+  A comprehensive resource for materials data, supporting computational materials science and discovery.
+
+---
 
 ## GitHub Repositories for Similar Works
 
@@ -106,6 +112,21 @@ Here is a curated list of GitHub repositories related to bandgap prediction usin
 
 9. [BandGapPredictor](https://github.com/yzhuo33/BandGapPredictor)  
    **Description:** Repository by `yzhuo33` employing machine learning for bandgap predictions.
+
+---
+
+## Additional Reading Materials
+
+- [NIST Publication – Machine Learning for Materials Science](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=915933)  
+- [Getting Started in Materials Informatics – Towards Data Science](https://towardsdatascience.com/getting-started-in-materials-informatics-41ee34d5ccfe/)  
+- [Matminer Feature Guide (E. Chen, 2022)](https://enze-chen.github.io/mi-book-2022/chapters/08/matminer_features_blank.html)  
+- [Computational Materials Science – Beginner’s Guide](https://techbuzzonline.com/computational-materials-science-beginners-guide/)  
+- [Machine Learning for Materials Scientists – Introductory Guide (ChemRxiv)](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/60c74ab3337d6ccdf3e27961/original/machine-learning-for-materials-scientists-an-introductory-guide-towards-best-practices.pdf)  
+- [ACS – Machine Learning for Materials Chemistry (PDF)](https://pubs.acs.org/doi/pdf/10.1021/acs.chemmater.2c01333?ref=article_openPDF)  
+- [ACS – Machine Learning for Materials Chemistry (Full Article)](https://pubs.acs.org/doi/10.1021/acs.chemmater.2c01333)  
+- [Springer – Review on ML for Materials](https://link.springer.com/article/10.1007/s11467-023-1325-z)  
+- [ScienceDirect – Machine Learning in Materials Discovery](https://www.sciencedirect.com/science/article/pii/S2666523923001575)  
+- [Nature – Machine Learning for Materials Design](https://www.nature.com/articles/s41524-022-00884-7)  
 
 
 ---
