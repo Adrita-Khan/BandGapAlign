@@ -131,11 +131,10 @@ Here is a curated list of GitHub repositories related to bandgap prediction usin
 
 ---
 
-<h2><u>Contact</u></h2>
-For any inquiries or feedback, please contact:
+## Contact
 
 **Adrita Khan**  
+[Email](mailto:adrita.khan.official@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adrita-khan) | [Twitter](https://x.com/Adrita_)
 
-*[📧 Email](mailto:adrita.khan.official@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/adrita-khan) | [🐦 Twitter](https://x.com/Adrita_)*
 
 
