@@ -24,23 +24,7 @@ git clone https://github.com/Adrita-Khan/BandGapAlign.git
 cd BandGapAlign
 ```
 
-## Research Resources
-
-### Academic Search Queries
-
-Use the following search queries on Google Scholar to find relevant research papers:
-
-| Query | Focus Area |
-|-------|------------|
-| `"band gap" "band alignment" "semiconductor" "machine learning"` | ML-based band gap and alignment predictions |
-| `"band gap" "band alignment" "semiconductor" "deep learning"` | Deep learning approaches for semiconductor properties |
-
-### Notable References
-
-1. Band gap and band alignment prediction of nitride-based semiconductors using machine learning (Huang2019)
-2. Bandgap prediction by deep learning in configurationally hybridized graphene and boron nitride (Dong2019)
-
-The complete list of references can be found [here](References.md).
+## Learning Resources
 
 ### Educational Videos
 
@@ -67,14 +51,25 @@ The complete list of references can be found [here](References.md).
 | [ScienceDirect – Machine Learning in Materials Discovery](https://www.sciencedirect.com/science/article/pii/S2666523923001575) | Research on ML-driven materials discovery |
 | [Nature – Machine Learning for Materials Design](https://www.nature.com/articles/s41524-022-00884-7) | High-impact publication on materials design |
 
-## Databases and Tools
+## Research Resources
 
-| Resource | Description |
-|----------|-------------|
-| [Matminer Datasets](https://hackingmaterials.lbl.gov/matminer/matminer.datasets.html) | Collection of datasets for materials informatics research by the Hacking Materials Project |
-| [Next-Generation Materials Project](https://next-gen.materialsproject.org/) | Comprehensive resource for materials data supporting computational materials science |
+### Academic Search Queries
 
-## Related GitHub Repositories
+Use the following search queries on Google Scholar to find relevant research papers:
+
+| Query | Focus Area |
+|-------|------------|
+| `"band gap" "band alignment" "semiconductor" "machine learning"` | ML-based band gap and alignment predictions |
+| `"band gap" "band alignment" "semiconductor" "deep learning"` | Deep learning approaches for semiconductor properties |
+
+### Notable References
+
+1. Band gap and band alignment prediction of nitride-based semiconductors using machine learning (Huang2019)
+2. Bandgap prediction by deep learning in configurationally hybridized graphene and boron nitride (Dong2019)
+
+The complete list of references can be found [here](References.md).
+
+### Related GitHub Repositories
 
 | Repository | Author | Description |
 |------------|--------|-------------|
@@ -87,6 +82,13 @@ The complete list of references can be found [here](References.md).
 | [BandGap_Predictor](https://github.com/Ezhilvel/BandGap_Predictor) | Ezhilvel | Bandgap prediction model using ML |
 | [BandGap_Predictor](https://github.com/Sahil1004/BandGap_Predictor) | Sahil1004 | Predictive modeling for band gaps |
 | [BandGapPredictor](https://github.com/yzhuo33/BandGapPredictor) | yzhuo33 | Machine learning for bandgap predictions |
+
+## Databases and Tools
+
+| Resource | Description |
+|----------|-------------|
+| [Matminer Datasets](https://hackingmaterials.lbl.gov/matminer/matminer.datasets.html) | Collection of datasets for materials informatics research by the Hacking Materials Project |
+| [Next-Generation Materials Project](https://next-gen.materialsproject.org/) | Comprehensive resource for materials data supporting computational materials science |
 
 ## License
 
